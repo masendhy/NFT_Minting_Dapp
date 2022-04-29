@@ -1,15 +1,6 @@
-# Bored Ape NFT Minting dApp ( Udemy The Fullstack Nft Minting Website Course)
+# Bored Ape NFT Minting dApp 
 
 This a complete example of fullstack NFT minting dApp. **BoredApe** is built with the purpose of providing an _entry point for future NFT Minting Website_ projects.
-
-To see the demo check this link:
-
-[![vercel](https://img.shields.io/badge/vercel-5624d0?style=for-the-badge&logo=vercel&logoColor=white)](https://boredape-minting-dapp.vercel.app/)
-
-
-To better understand take my course:
-
-[![udemy](https://img.shields.io/badge/udemy-5624d0?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/course/the-fullstack-nft-minting-website-course/?referralCode=5C50F6A55E29FC7E0107)
 
 ## Installation
 
@@ -18,10 +9,6 @@ You can use **the default BoredApe smart contract** and play with it or you can 
 Use the default **BoredApe Smart Contract:**
 
 ```bash
-
-  # Clone the repository and change directory into it
-  git clone https://github.com/codingwithdidem/boredape-minting-dapp.git
-  cd boredape-nft-minting-dapp
 
   npm install            # Download packages
   npm run dev            # Run the dev server
@@ -66,14 +53,9 @@ To do that;
   npx hardhat run scripts/verifyContract.js --network mainnet
 ```
 
-## Tech Stack
-
 **Client:** React, TailwindCSS, web3.js
 
 **Server:** Alchemy, NextJS, Hardhat
 
-## Support
 
-For support, email codingwithdidem@gmail.com
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/codewithdidem)
